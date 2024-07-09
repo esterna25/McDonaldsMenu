@@ -18,3 +18,16 @@ The goal of this project are to provide insights into several key aspects of McD
       * Distribution of calories, fat, and other nutritional information.
       * Comparison of nutritional values across different items.
 
+**4. Feature Engineering**
+  * Create new features if needed (e.g., fat-to-calories ratio).
+    
+**5. Statistical Analysis**
+  * Correlation analysis to see relationships between different nutritional components.
+
+**6. Modeling**
+  * Create a predictive model using Decision Tree, Random Forest, and KNN
+
+**7. Evaluation**
+  * Evaluate the models using the testing dataset and determine the most effective model by analyzing metrics such as Accuracy, Precision, Recall, and F1-Score.
+## Conclusion
+In conclusion, this project has provided valuable insight into the nutritional composition of McDonald's menu items. Through comprehensive data analysis and machine learning modeling, we gain a deeper understanding of the calories, fat, protein and other nutritional aspects of the menu. By following these steps, nutritional content trends across menu categories can be identified, highlighted the impact of ingredient choices on overall nutrition, and developed predictive models to classify menu items based on their nutritional profiles.
